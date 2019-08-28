@@ -1,0 +1,53 @@
+{
+  "name": "react-admonitions",
+  "version": "1.0.0",
+  "description": "An admonitions React component, ported from remarkable-admonitions. Perfect for Docusaurus v2 and other React-based doc generators",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "test": "./node_modules/.bin/standard 'src/*.js'",
+    "build": "./node_modules/.bin/rollup -c",
+    "format": "./node_modules/.bin/standard --fix 'src/*.js'"
+  },
+  "author": "Ben Gubler <nebrelbug@gmail.com> (https://bengubler.com)",
+  "license": "MIT",
+  "keywords": [
+    "react-component",
+    "admonitions",
+    "hint",
+    "alert",
+    "warning",
+    "documentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nebrelbug/react-admonitions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nebrelbug/react-admonitions/issues"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": ">=15.0.1",
+    "styled-components": ">= 3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-plugin-styled-components": "^1.10.6",
+    "react": ">=15.0.1",
+    "react-dom": ">=15.0.1",
+    "rollup": "^1.20.2",
+    "rollup-plugin-babel": "^4.3.3",
+    "standard": "^14.0.2",
+    "styled-components": "^3.4.9"
+  },
+  "standard": {
+    "ignore": [
+      "test/*.js",
+      "dist/*.js"
+    ]
+  }
+}
