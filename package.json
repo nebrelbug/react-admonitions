@@ -1,6 +1,6 @@
 {
   "name": "react-admonitions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An admonitions React component, ported from remarkable-admonitions. Perfect for Docusaurus v2 and other React-based doc generators",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
