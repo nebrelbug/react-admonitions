@@ -26,8 +26,7 @@
   "bugs": {
     "url": "https://github.com/nebrelbug/react-admonitions/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": ">=15.0.1",
     "styled-components": ">= 3"
