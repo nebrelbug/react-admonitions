@@ -1,0 +1,8 @@
+{
+  "short_name": "react-admonitions",
+  "name": "react-admonitions",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
