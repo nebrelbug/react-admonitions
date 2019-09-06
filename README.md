@@ -40,6 +40,10 @@ class Example extends Component {
 | **`iconType`** | `"svg"` | The type of admonition icon. Valid options: `"svg"`, `"emoji"` |
 | **`title`** | none | The, well, title of the admonition |
 
+## Credits
+
+HTML, styles, and concept all come from the amazing Markdown plugin by [@favoloso](https://github.com/favoloso), [remarkable-admonitions](https://github.com/favoloso/remarkable-admonitions).
+
 ## License
 
 MIT © [nebrelbug](https://github.com/nebrelbug)
