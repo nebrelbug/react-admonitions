@@ -2,7 +2,7 @@
 
 > An admonitions React component, ported from remarkable-admonitions. Perfect for Docusaurus v2 and other React-based doc generators.
 
-[![NPM](https://img.shields.io/npm/v/react-admonitions.svg)](https://www.npmjs.com/package/react-admonitions) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-admonitions.svg)](https://www.npmjs.com/package/react-admonitions) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.com/nebrelbug/react-admonitions.svg?branch=master)](https://travis-ci.com/nebrelbug/react-admonitions)
 
 Test the component out [on Stackblitz](https://stackblitz.com/edit/react-admonitions), or view the [demo](https://nebrelbug.github.io/react-admonitions/)
 
