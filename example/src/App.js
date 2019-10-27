@@ -30,6 +30,9 @@ export default class App extends Component {
           <Admonition type="note" title="Do not do this">
             Remember that
           </Admonition>
+          <Admonition type="question" title="How do I do this">
+            A question, Really?
+          </Admonition>
         </div>
         <div style={{ width: '30vw', margin: 'auto', marginTop: '15px' }}>
           <h2>Emojis</h2>

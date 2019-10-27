@@ -100,3 +100,18 @@
   stroke: #f1c40f;
   fill: #f1c40f;
 }
+
+.admonition-question {
+  background-color: rgba(0, 0, 0, 0.1);
+  border-left: 8px solid #ffff00;
+}
+
+.admonition-question h5 {
+  color: #ffff00;
+}
+
+.admonition-question .admonition-icon svg {
+  stroke: #ffff00;
+  fill: #ffff00;
+}
+
