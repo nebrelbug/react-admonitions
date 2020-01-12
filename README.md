@@ -4,6 +4,9 @@
 
 [![NPM](https://img.shields.io/npm/v/react-admonitions.svg)](https://www.npmjs.com/package/react-admonitions) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.com/nebrelbug/react-admonitions.svg?branch=master)](https://travis-ci.com/nebrelbug/react-admonitions)
 
+**TL;DR**
+Nice-looking hints, warnings, etc. specifically targeted toward Docusaurus docs websites.
+
 Test the component out [on Stackblitz](https://stackblitz.com/edit/react-admonitions), or view the [demo](https://nebrelbug.github.io/react-admonitions/)
 
 ## Install
