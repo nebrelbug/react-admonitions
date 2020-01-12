@@ -38,9 +38,9 @@ class Example extends Component {
 
 | Name           | Default | Description                                                                                                            |
 | -------------- | ------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **`type`**     | none    | What type of admonition you want to display. Valid options: `"warning"`, `"tip"`, `"caution"`, `"note"`, `"important"` |
+| **`type`**     | none    | What type of admonition you want to display. Valid options: `"warning"`, `"tip"`, `"caution"`, `"note"`, `"important"`, `"question"` |
 | **`iconType`** | `"svg"` | The type of admonition icon. Valid options: `"svg"`, `"emoji"` |
-| **`title`** | none | The, well, title of the admonition |
+| **`title`**    | none | The, well, title of the admonition |
 
 ## Credits
 
