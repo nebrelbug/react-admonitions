@@ -33,8 +33,8 @@ function styleInject(css, ref) {
   }
 }
 
-var css = "/**\n Docusaurus-like styling for `remarkable-admonitions` blocks\n */\n\n.styles_admonition__1yZsU {\n  margin-bottom: 1em;\n  padding: 15px 30px 15px 15px;\n}\n\n.styles_admonition__1yZsU h5 {\n  margin-top: 0;\n  margin-bottom: 8px;\n  text-transform: uppercase;\n}\n\n.styles_admonition-icon__28BuS {\n  display: inline-block;\n  vertical-align: middle;\n  margin-right: 0.2em;\n}\n\n.styles_admonition-icon__28BuS svg {\n  display: inline-block;\n  width: 22px;\n  height: 22px;\n  stroke-width: 0;\n}\n\n.styles_admonition-content__tug7k > :last-child {\n  margin-bottom: 0;\n}\n\n/** Customization */\n.styles_admonition-warning__1e7jx {\n  background-color: rgba(230, 126, 34, 0.1);\n  border-left: 8px solid #e67e22;\n}\n\n.styles_admonition-warning__1e7jx h5 {\n  color: #e67e22;\n}\n\n.styles_admonition-warning__1e7jx .styles_admonition-icon__28BuS svg {\n  stroke: #e67e22;\n  fill: #e67e22;\n}\n\n.styles_admonition-tip__1lMEG {\n  background-color: rgba(46, 204, 113, 0.1);\n  border-left: 8px solid #2ecc71;\n}\n\n.styles_admonition-tip__1lMEG h5 {\n  color: #2ecc71;\n}\n\n.styles_admonition-tip__1lMEG .styles_admonition-icon__28BuS svg {\n  stroke: #2ecc71;\n  fill: #2ecc71;\n}\n\n.styles_admonition-caution__1yM6T {\n  background-color: rgba(231, 76, 60, 0.1);\n  border-left: 8px solid #e74c3c;\n}\n\n.styles_admonition-caution__1yM6T h5 {\n  color: #e74c3c;\n}\n\n.styles_admonition-caution__1yM6T .styles_admonition-icon__28BuS svg {\n  stroke: #e74c3c;\n  fill: #e74c3c;\n}\n\n.styles_admonition-important__3bQUu {\n  background-color: rgba(52, 152, 219, 0.1);\n  border-left: 8px solid #3498db;\n}\n\n.styles_admonition-important__3bQUu h5 {\n  color: #3498db;\n}\n\n.styles_admonition-important__3bQUu .styles_admonition-icon__28BuS svg {\n  stroke: #3498db;\n  fill: #3498db;\n}\n\n.styles_admonition-note__1aZA2 {\n  background-color: rgba(241, 196, 15, 0.1);\n  border-left: 8px solid #f1c40f;\n}\n\n.styles_admonition-note__1aZA2 h5 {\n  color: #f1c40f;\n}\n\n.styles_admonition-note__1aZA2 .styles_admonition-icon__28BuS svg {\n  stroke: #f1c40f;\n  fill: #f1c40f;\n}\n";
-var styles = { "admonition": "styles_admonition__1yZsU", "admonition-icon": "styles_admonition-icon__28BuS", "admonition-content": "styles_admonition-content__tug7k", "admonition-warning": "styles_admonition-warning__1e7jx", "admonition-tip": "styles_admonition-tip__1lMEG", "admonition-caution": "styles_admonition-caution__1yM6T", "admonition-important": "styles_admonition-important__3bQUu", "admonition-note": "styles_admonition-note__1aZA2" };
+var css = "/**\n Docusaurus-like styling for `remarkable-admonitions` blocks\n */\n\n.styles_admonition__cVygF {\n  margin-bottom: 1em;\n  padding: 15px 30px 15px 15px;\n}\n\n.styles_admonition__cVygF h5 {\n  margin-top: 0;\n  margin-bottom: 8px;\n  text-transform: uppercase;\n}\n\n.styles_admonition-icon__2KJUu {\n  display: inline-block;\n  vertical-align: middle;\n  margin-right: 0.2em;\n}\n\n.styles_admonition-icon__2KJUu svg {\n  display: inline-block;\n  width: 22px;\n  height: 22px;\n  stroke-width: 0;\n}\n\n.styles_admonition-content__2bbc9 > :last-child {\n  margin-bottom: 0;\n}\n\n/** Customization */\n.styles_admonition-warning__1ieib {\n  background-color: rgba(230, 126, 34, 0.1);\n  border-left: 8px solid #e67e22;\n}\n\n.styles_admonition-warning__1ieib h5 {\n  color: #e67e22;\n}\n\n.styles_admonition-warning__1ieib .styles_admonition-icon__2KJUu svg {\n  stroke: #e67e22;\n  fill: #e67e22;\n}\n\n.styles_admonition-tip__vj3UA {\n  background-color: rgba(46, 204, 113, 0.1);\n  border-left: 8px solid #2ecc71;\n}\n\n.styles_admonition-tip__vj3UA h5 {\n  color: #2ecc71;\n}\n\n.styles_admonition-tip__vj3UA .styles_admonition-icon__2KJUu svg {\n  stroke: #2ecc71;\n  fill: #2ecc71;\n}\n\n.styles_admonition-caution__1-7Ox {\n  background-color: rgba(231, 76, 60, 0.1);\n  border-left: 8px solid #e74c3c;\n}\n\n.styles_admonition-caution__1-7Ox h5 {\n  color: #e74c3c;\n}\n\n.styles_admonition-caution__1-7Ox .styles_admonition-icon__2KJUu svg {\n  stroke: #e74c3c;\n  fill: #e74c3c;\n}\n\n.styles_admonition-important__XlRVC {\n  background-color: rgba(52, 152, 219, 0.1);\n  border-left: 8px solid #3498db;\n}\n\n.styles_admonition-important__XlRVC h5 {\n  color: #3498db;\n}\n\n.styles_admonition-important__XlRVC .styles_admonition-icon__2KJUu svg {\n  stroke: #3498db;\n  fill: #3498db;\n}\n\n.styles_admonition-note__hSUd7 {\n  background-color: rgba(241, 196, 15, 0.1);\n  border-left: 8px solid #f1c40f;\n}\n\n.styles_admonition-note__hSUd7 h5 {\n  color: #f1c40f;\n}\n\n.styles_admonition-note__hSUd7 .styles_admonition-icon__2KJUu svg {\n  stroke: #f1c40f;\n  fill: #f1c40f;\n}\n\n.styles_admonition-question__3sdj1 {\n  background-color: rgba(8, 61, 119, 0.1);\n  border-left: 8px solid #083d77;\n}\n\n.styles_admonition-question__3sdj1 h5 {\n  color: #083d77;\n}\n\n.styles_admonition-question__3sdj1 .styles_admonition-icon__2KJUu svg {\n  stroke: #083d77;\n  fill: #083d77;\n}\n\n";
+var styles = { "admonition": "styles_admonition__cVygF", "admonition-icon": "styles_admonition-icon__2KJUu", "admonition-content": "styles_admonition-content__2bbc9", "admonition-warning": "styles_admonition-warning__1ieib", "admonition-tip": "styles_admonition-tip__vj3UA", "admonition-caution": "styles_admonition-caution__1-7Ox", "admonition-important": "styles_admonition-important__XlRVC", "admonition-note": "styles_admonition-note__hSUd7", "admonition-question": "styles_admonition-question__3sdj1" };
 styleInject(css);
 
 var classCallCheck = function (instance, Constructor) {
@@ -144,7 +144,8 @@ var emojisMap = {
   important: '❗️',
   caution: '🔥',
   tip: '💡',
-  note: 'ℹ️'
+  note: 'ℹ️',
+  question: '?'
 
   /**
    * Octicons Icons by GitHub released under MIT License
@@ -215,6 +216,19 @@ var emojisMap = {
     React__default.createElement('path', {
       fillRule: 'evenodd',
       d: 'M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z'
+    })
+  ),
+  question: React__default.createElement(
+    'svg',
+    {
+      xmlns: 'http://www.w3.org/2000/svg',
+      width: '14',
+      height: '16',
+      viewBox: '0 0 14 16'
+    },
+    React__default.createElement('path', {
+      'fill-rule': 'evenodd',
+      d: 'M6 10h2v2H6v-2zm4-3.5C10 8.64 8 9 8 9H6c0-.55.45-1 1-1h.5c.28 0 .5-.22.5-.5v-1c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5V7H4c0-1.5 1.5-3 3-3s3 1 3 2.5zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7s7-3.14 7-7s-3.14-7-7-7z'
     })
   )
 };
